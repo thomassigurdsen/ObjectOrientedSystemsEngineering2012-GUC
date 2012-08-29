@@ -1,37 +1,47 @@
-\documentclass{article}% open chapters on any page
-%%\usepackage{fullpage} % 1 inch margins
-\usepackage{hyperref}
+\documentclass{article} % open chapters on any page
+\usepackage{float}
+%\usepackage{fullpage} % 1 inch margins
+%\usepackage{harvard} % harvard reference style++
+\usepackage[hidelinks]{hyperref} % do not remember entirely what this does
+%%\usepackage{minted} % [LINUXONLY] list environment with code highlighting
 
 \title{Object oriented systems engineering \\ IMT3102 \\ Portfolio 1}
 \author{Martin Kristian Mellum  \\ Thomas Sigurdsen 090320} % enter student number
 \date{\today}
 
 \begin{document}
-\maketitle       %% make title and TOC
-\section{Abstract} % not sure if needed
-This section is to be written when all else is done. 100-200 words summarizing.
-\tableofcontents
+\maketitle       % make title
+%%\section{Abstract} % not sure if needed
+%%This section is to be written when all else is done. 100-200 words summarizing.
+\tableofcontents % make table of contents
+\pagebreak	% and break the page, because pretty
+
 \section{Introduction} % not sure if needed
 In this first portfolio we will pick 3 - 4 open-source projects. We are going to analyze each of them from a software engineering point of view. Delve into the differences of infrastructure, communication, openness, financial and social aspects of the open-source development model for these projects.
 
 The projects we have initially chosen are:
 \begin{itemize}
-\item Media player classic
-\item Ez publish
-\item Open-dungeons
+\item Media Player Classic
+\item EZ publish
+\item OpenDungeons % I think we should drop this, pick a new better one, and write up a bit on the curiosa on this one.
 \end{itemize}
 
 \section{Project introduction}
-\subsection{Media player classic}
-\subsection{Ez publish}
-\subsection{Open-dungeons}
-\section{Licenses}
-\section{Infrastructure}
-\section{}
+\subsection{Media Player Classic}
+\subsection{EZ publish}
+\subsection{OpenDungeons}
+\begin{quotation}
+OpenDungeons is an open source, real time strategy game sharing game elements with the Dungeon Keeper series and Evil Genius. Players build an underground (or overground) dungeon which is inhabited by creatures. Players fight each other for control of territory by indirectly commanding their creatures, directly casting spells in combat, and luring enemies into sinister traps.\cite{odwebabout}
+\end{quotation}
 
-\begin{description}
-\item [noe] annet
-\item [enn] engelsk
-\item [her] ja
-\end{description}
+\section{Licenses}
+\section{Infrastructure} % do the infrastructure by project, instead of features
+\subsection{Mailing Lists}
+\subsection{Version control}
+\subsection{Bug tracker}
+\subsection{Instant messaging}
+\subsection{Website}
+
+\bibliographystyle{plain} % change for dcu, or something else entirely?
+\bibliography{ProjectComparisonRefs}
 \end{document}

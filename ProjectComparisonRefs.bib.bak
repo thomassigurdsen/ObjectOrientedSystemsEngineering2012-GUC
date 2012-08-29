@@ -1,0 +1,11 @@
+@Misc{odweb,
+	author = {Open Dungeons Community[online]},
+	title = {OpenDungeons},
+	howpublished = {\url{http://opendungeons.sourceforge.net/index.php/Main_Page}}
+}
+
+@Misc{odwebabout,
+	author = {Open Dungeons Community[online]},
+	title = {about OpenDungeons},
+	howpublished = {\url{http://opendungeons.sourceforge.net/about.html}}
+}
