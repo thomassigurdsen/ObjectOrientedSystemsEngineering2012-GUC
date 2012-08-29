@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.5.14)  23 AUG 2012 21:46
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.5.14)  29 AUG 2012 18:08
 entering extended mode
-**PeojectComparison.tex
+**ProjectComparison.tex
 
-(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\PeojectCompari
+(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\ProjectCompari
 son.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
@@ -143,24 +143,24 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
-(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\PeojectCompari
+(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\ProjectCompari
 son.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 \AtBeginShipoutBox=\box26
-Package hyperref Info: Link coloring OFF on input line 10.
+Package hyperref Info: Link coloring OFF on input line 9.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -169,59 +169,68 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count97
 )
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
 
-(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\PeojectCompari
+(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\ProjectCompari
 son.out)
-(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\PeojectCompari
+(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\ProjectCompari
 son.out)
 \@outlinefile=\write3
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 11.
 
-(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\PeojectCompari
+(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\ProjectCompari
 son.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
+(Font)              <5> on input line 4.
 )
 \tf@toc=\write4
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 23.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 20.
 
-(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\PeojectCompari
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+
+(D:\Documents\workspace\ObjectOrientedSystemsEngineering2012-GUC\ProjectCompari
 son.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 23.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 23.
-Package rerunfilecheck Info: File `PeojectComparison.out' has not changed.
-(rerunfilecheck)             Checksum: 78DAC3809AD86A23B45480EB1FCE5E78;186.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
+Package rerunfilecheck Info: File `ProjectComparison.out' has not changed.
+(rerunfilecheck)             Checksum: CF0C53AB4DC2247178D2B9944FBE56C9;752.
  ) 
 Here is how much of TeX's memory you used:
- 4090 strings out of 494045
- 61871 string characters out of 3148384
- 134856 words of memory out of 3000000
- 7398 multiletter control sequences out of 15000+200000
+ 4126 strings out of 494045
+ 62415 string characters out of 3148384
+ 136856 words of memory out of 3000000
+ 7421 multiletter control sequences out of 15000+200000
  7895 words of font info for 28 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 29i,6n,28p,180b,313s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,6n,28p,326b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on PeojectComparison.pdf (1 page, 63487 bytes).
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb>
+Output written on ProjectComparison.pdf (2 pages, 90360 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

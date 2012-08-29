@@ -11,7 +11,6 @@
 \section{Abstract} % not sure if needed
 This section is to be written when all else is done. 100-200 words summarizing.
 \tableofcontents
-\pagebreak
 \section{Introduction} % not sure if needed
 In this first portfolio we will pick 3 - 4 open-source projects. We are going to analyze each of them from a software engineering point of view. Delve into the differences of infrastructure, communication, openness, financial and social aspects of the open-source development model for these projects.
 
@@ -28,10 +27,11 @@ The projects we have initially chosen are:
 \subsection{Open-dungeons}
 \section{Licenses}
 \section{Infrastructure}
-\subsection{Mailing Lists}
-\subsection{Version control}
-\subsection{Bug tracker}
-\subsection{Instant messaging}
-\subsection{Website}
+\section{}
 
+\begin{description}
+\item [noe] annet
+\item [enn] engelsk
+\item [her] ja
+\end{description}
 \end{document}
