@@ -1,12 +1,29 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
-\contentsline {section}{\numberline {2}Project introduction}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Media Player Classic}{2}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}EZ publish}{2}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}OpenDungeons}{2}{subsection.2.3}
-\contentsline {section}{\numberline {3}Licenses}{2}{section.3}
-\contentsline {section}{\numberline {4}Infrastructure}{2}{section.4}
-\contentsline {subsection}{\numberline {4.1}Mailing Lists}{2}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Version control}{2}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Bug tracker}{2}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Instant messaging}{2}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Website}{2}{subsection.4.5}
+\contentsline {section}{\numberline {0.1}Introduction}{2}{section.0.1}
+\contentsline {section}{\numberline {0.2}Project introduction}{2}{section.0.2}
+\contentsline {subsection}{\numberline {0.2.1}Media Player Classic}{2}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {0.2.2}Ez Publish}{2}{subsection.0.2.2}
+\contentsline {subsection}{\numberline {0.2.3}OpenDungeons}{2}{subsection.0.2.3}
+\contentsline {section}{\numberline {0.3}Licenses}{3}{section.0.3}
+\contentsline {subsection}{\numberline {0.3.1}Media Player Classic}{3}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {0.3.2}Ez Publish}{3}{subsection.0.3.2}
+\contentsline {subsection}{\numberline {0.3.3}OpenDungeons}{3}{subsection.0.3.3}
+\contentsline {section}{\numberline {0.4}Infrastructure}{3}{section.0.4}
+\contentsline {subsection}{\numberline {0.4.1}Media Player Classic}{3}{subsection.0.4.1}
+\contentsline {subsubsection}{Mailing Lists}{3}{section*.2}
+\contentsline {subsubsection}{Version control}{3}{section*.3}
+\contentsline {subsubsection}{Bug tracker}{3}{section*.4}
+\contentsline {subsubsection}{Instant messaging}{3}{section*.5}
+\contentsline {subsubsection}{Website}{3}{section*.6}
+\contentsline {subsection}{\numberline {0.4.2}Ez Publish}{3}{subsection.0.4.2}
+\contentsline {subsubsection}{Mailing Lists}{3}{section*.7}
+\contentsline {subsubsection}{Version control}{3}{section*.8}
+\contentsline {subsubsection}{Bug tracker}{4}{section*.9}
+\contentsline {subsubsection}{Instant messaging}{4}{section*.10}
+\contentsline {subsubsection}{Website}{4}{section*.11}
+\contentsline {subsection}{\numberline {0.4.3}OpenDungeons}{4}{subsection.0.4.3}
+\contentsline {subsubsection}{Mailing Lists}{4}{section*.12}
+\contentsline {subsubsection}{Version control}{4}{section*.13}
+\contentsline {subsubsection}{Bug tracker}{4}{section*.14}
+\contentsline {subsubsection}{Instant messaging}{4}{section*.15}
+\contentsline {subsubsection}{Website}{4}{section*.16}
+\contentsline {section}{\numberline {0.5}Conclusion}{4}{section.0.5}

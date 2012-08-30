@@ -1,11 +1,51 @@
 @Misc{odweb,
-	author = {Open Dungeons Community[online]},
+	author = {Open Dungeons Website[online]},
 	title = {OpenDungeons},
 	howpublished = {\url{http://opendungeons.sourceforge.net/index.php/Main_Page}}
 }
 
 @Misc{odwebabout,
-	author = {Open Dungeons Community[online]},
+	author = {Open Dungeons Website[online]},
 	title = {about OpenDungeons},
 	howpublished = {\url{http://opendungeons.sourceforge.net/about.html}}
+}
+
+@Misc{mpcweb,
+	author = {Media Player Classic Website[online]},
+	title = {Media Player Classic},
+	howpublished = {\url{http://sourceforge.net/projects/guliverkli/}}
+}
+
+@Misc{ezpubweb,
+	author = {EZ Publish Website[online]},
+	title = {EZ},
+	howpublished = {\url{http://ez.no/}}
+}
+
+@Misc{ezpubwebabout,
+	author = {EZ Publish Website[online]},
+	title = {About eZ},
+	howpublished = {\url{http://ez.no/About-eZ/Company-Overview}}
+}
+@Misc{ezcomweb,
+	author = {EZ Publish Website[online]},
+	title = {EZ},
+	howpublished = {\url{http://share.ez.no/}}
+}
+
+@Misc{ezpubweblicenses,
+	author = {EZ Publish Website[online]},
+	title = {EZ},
+	howpublished = {\url{http://ez.no/Resources/Software/Licenses}}
+}
+@Misc{ezpubgithub,
+	author = {EZ Publish Github[online]},
+	title = {EZ systems github},
+	howpublished = {\url{https://github.com/ezsystems/}}
+}
+@Misc{gplv2,
+	author = {Free Software Foundation[online]},
+	title = {GNU GENERAL PUBLIC LICENSE},
+	note = {Version 2},
+	howpublished = {\url{http://www.gnu.org/licenses/old-licenses/gpl-2.0.html}}
 }

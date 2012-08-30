@@ -1,4 +1,4 @@
-\documentclass{article} % open chapters on any page
+\documentclass{report} % was article, thought i'd try with report...
 \usepackage{float}
 %\usepackage{fullpage} % 1 inch margins
 %\usepackage{harvard} % harvard reference style++
@@ -21,27 +21,70 @@ In this first portfolio we will pick 3 - 4 open-source projects. We are going to
 
 The projects we have initially chosen are:
 \begin{itemize}
-\item Media Player Classic
-\item EZ publish
-\item OpenDungeons % I think we should drop this, pick a new better one, and write up a bit on the curiosa on this one.
+\item Media Player Classic\cite{mpcweb}
+\item Ez publish\cite{ezpubweb}
+\item OpenDungeons\cite{odweb} % I think we should drop this, pick a new better one, and write up a bit on the curiosa on this one.
 \end{itemize}
 
 \section{Project introduction}
 \subsection{Media Player Classic}
-\subsection{EZ publish}
+\subsection{Ez Publish}
+Ez Publish is a http based content management system. It is built using mainly php and effectively uses a dual licensing scheme.
+
+Their about reads as follows:
+\begin{quote}
+eZ Systems is in the business of Web Content Management Solutions and has been since 1999. We maintain a global presence in Europe, Asia and the Americas. 
+
+Our large international business partner network is the foundation of our success in the market. 
+
+Our team of engineers, consultants and partner managers enables successful implementations for our customers and partners.\cite{ezpubwebabout}
+\end{quote}
+The Ez Publish website\cite{ezpubweb} appears as a business front-end, and as such can be a bit off putting. There is but one direct mention of open-source, under a "What's in it for you" banner at the top.
+
+Until you find the community portal for Ez Publish, it's all like a big storefront. Mentioning open-source and community in between selling itself. Indeed, running a \url{inurl:"http://ez.publish.no" "share.ez.no"} on google returns no results.
+
+Poking around will let you find the open-source community web page\cite{ezcomweb}
+
 \subsection{OpenDungeons}
 \begin{quotation}
 OpenDungeons is an open source, real time strategy game sharing game elements with the Dungeon Keeper series and Evil Genius. Players build an underground (or overground) dungeon which is inhabited by creatures. Players fight each other for control of territory by indirectly commanding their creatures, directly casting spells in combat, and luring enemies into sinister traps.\cite{odwebabout}
 \end{quotation}
 
-\section{Licenses}
-\section{Infrastructure} % do the infrastructure by project, instead of features
-\subsection{Mailing Lists}
-\subsection{Version control}
-\subsection{Bug tracker}
-\subsection{Instant messaging}
-\subsection{Website}
 
-\bibliographystyle{plain} % change for dcu, or something else entirely?
+\section{Licenses}
+\subsection{Media Player Classic}
+\subsection{Ez Publish}
+Ez Publish uses a quinary licensing scheme\cite{ezpubweblicenses}. Most of them are for special use cases, meaning enterprises use the "eZ Business Use License Agreement" while most others use the GPLv2\cite{gplv2}. Information about their licensing and when to use which is more or less hidden.
+\subsection{OpenDungeons}
+
+\section{Infrastructure}
+\subsection{Media Player Classic}
+\subsubsection{Mailing Lists}
+\subsubsection{Version control}
+\subsubsection{Bug tracker}
+\subsubsection{Instant messaging}
+\subsubsection{Website}
+
+\subsection{Ez Publish}
+\subsubsection{Mailing Lists}
+Ez Publish does not seem to have open mailing lists. Instead preffering the forums as their main communications channel to the exclusion of all else. They do have emails for customer contact/support, but they are listed in the business part of their website.
+\subsubsection{Version control}
+Ez Publish uses github\cite{ezpubgithub} as their community/open-source code interface/version control. Here they have lots of public repositories (40 repositories at the 30th of August 2012). They use primarily push requests to receive code from sources other than Ez Publish's own engineers.
+\subsubsection{Bug tracker}
+\subsubsection{Instant messaging}
+\subsubsection{Website}
+\subsubsection{Money}
+Ez Publish 
+
+\subsection{OpenDungeons}
+\subsubsection{Mailing Lists}
+\subsubsection{Version control}
+\subsubsection{Bug tracker}
+\subsubsection{Instant messaging}
+\subsubsection{Website}
+
+\section{Conclusion}
+
+\bibliographystyle{unsrt} % change for dcu, or something else entirely? unsrt is nice
 \bibliography{ProjectComparisonRefs}
 \end{document}

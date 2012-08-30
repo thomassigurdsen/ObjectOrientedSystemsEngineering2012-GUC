@@ -1,8 +1,49 @@
 \begin{thebibliography}{1}
 
+\bibitem{mpcweb}
+Media Player~Classic Website[online].
+\newblock Media player classic.
+\newblock \url{http://sourceforge.net/projects/guliverkli/}.
+
+\bibitem{ezpubweb}
+EZ~Publish Website[online].
+\newblock Ez.
+\newblock \url{http://ez.no/}.
+
+\bibitem{odweb}
+Open~Dungeons Website[online].
+\newblock Opendungeons.
+\newblock \url{http://opendungeons.sourceforge.net/index.php/Main_Page}.
+
+\bibitem{ezpubwebabout}
+EZ~Publish Website[online].
+\newblock About ez.
+\newblock \url{http://ez.no/About-eZ/Company-Overview}.
+
+\bibitem{ezcomweb}
+EZ~Publish Website[online].
+\newblock Ez.
+\newblock \url{http://share.ez.no/}.
+
 \bibitem{odwebabout}
-Open~Dungeons Community[online].
+Open~Dungeons Website[online].
 \newblock about opendungeons.
 \newblock \url{http://opendungeons.sourceforge.net/about.html}.
+
+\bibitem{ezpubweblicenses}
+EZ~Publish Website[online].
+\newblock Ez.
+\newblock \url{http://ez.no/Resources/Software/Licenses}.
+
+\bibitem{gplv2}
+Free~Software Foundation[online].
+\newblock Gnu general public license.
+\newblock \url{http://www.gnu.org/licenses/old-licenses/gpl-2.0.html}.
+\newblock Version 2.
+
+\bibitem{ezpubgithub}
+EZ~Publish Github[online].
+\newblock Ez systems github.
+\newblock \url{https://github.com/ezsystems/}.
 
 \end{thebibliography}
