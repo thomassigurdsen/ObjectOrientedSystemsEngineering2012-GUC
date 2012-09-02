@@ -17,7 +17,7 @@
 \pagebreak	% and break the page, because pretty
 
 \section{Introduction} % not sure if needed
-In this first portfolio we will pick 3 - 4 open-source projects. We are going to analyze each of them from a software engineering point of view. Delve into the differences of infrastructure, communication, openness, financial and social aspects of the open-source development model for these projects.
+In this first portfolio we will pick 3 - 4 open-source projects. We are going to analyze each of them from a software engineering point of view. Delve into the differences of infrastructure, communication, openness, financial and social aspects of the open-source development model for these projects. Much of this analysis will be done using chapter 3 of Karl Fogel's Producing Open Source Software\cite{kfposs} as a lense.
 
 The projects we have initially chosen are:
 \begin{itemize}
@@ -67,12 +67,17 @@ Ez Publish uses a quinary licensing scheme\cite{ezpubweblicenses}. Most of them 
 
 \subsection{Ez Publish}
 \subsubsection{Mailing Lists}
-Ez Publish does not seem to have open mailing lists. Instead preffering the forums as their main communications channel to the exclusion of all else. They do have emails for customer contact/support, but they are listed in the business part of their website.
+Ez Publish has mailing lists\cite{ezpubwebmaillists}\footnote{At the first counseling Thomas stated that Ez Publish seemingly did not use mailing lists. It has been discovered that this was indeed false.} divided into 10 categories, half of which is bug related. All of the categories are more or less aimed at development/developers.
 \subsubsection{Version control}
-Ez Publish uses github\cite{ezpubgithub} as their community/open-source code interface/version control. Here they have lots of public repositories (40 repositories at the 30th of August 2012). They use primarily push requests to receive code from sources other than Ez Publish's own engineers.
+Ez Publish uses github\cite{ezpubgithub} as their community/open-source code interface/version control. Here they have lots of public repositories (40 repositories at the 30th of August 2012). They use primarily push requests to receive code from sources other than Ez Publish's own engineers. % this may be false, check mail.
 \subsubsection{Bug tracker}
-\subsubsection{Instant messaging}
+Ez Publish uses a bug tracking system from Waterproof Software\cite{waterproofweb} called wIT\cite{waterproofwebwit}. Hosted through the Ez publish platform.
+\subsubsection{Instant messaging} % check in mail?
+\subsubsection{Coding standards}
 \subsubsection{Website}
+All of Ez Publish's websites are hosted on the Ez Publish platform.
+\subsubsection{Money}
+Ez Publish straightforwardly presents itself as a company making money off of their support for the Ez Publish platform.
 
 \subsection{OpenDungeons}
 \subsubsection{Mailing Lists}

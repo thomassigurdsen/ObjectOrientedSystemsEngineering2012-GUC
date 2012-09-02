@@ -1,4 +1,10 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{kfposs}
+Karl Fogel.
+\newblock {\em Producing Open Source Software}.
+\newblock O'Reilly Media, October 2005.
+\newblock \url{http://www.producingoss.com/}.
 
 \bibitem{mpcweb}
 Media Player~Classic Website[online].
@@ -7,7 +13,7 @@ Media Player~Classic Website[online].
 
 \bibitem{ezpubweb}
 EZ~Publish Website[online].
-\newblock Ez.
+\newblock Ez publish.
 \newblock \url{http://ez.no/}.
 
 \bibitem{odweb}
@@ -21,8 +27,8 @@ EZ~Publish Website[online].
 \newblock \url{http://ez.no/About-eZ/Company-Overview}.
 
 \bibitem{ezcomweb}
-EZ~Publish Website[online].
-\newblock Ez.
+EZ~Publish~Community Website[online].
+\newblock Ez publish community.
 \newblock \url{http://share.ez.no/}.
 
 \bibitem{odwebabout}
@@ -41,9 +47,22 @@ Free~Software Foundation[online].
 \newblock \url{http://www.gnu.org/licenses/old-licenses/gpl-2.0.html}.
 \newblock Version 2.
 
+\bibitem{ezpubwebmaillists}
+EZ~Publish~Mail Website[online].
+\newblock lists.ez.no mailing lists.
+\newblock \url{http://lists.ez.no/mailman/listinfo}.
+
 \bibitem{ezpubgithub}
 EZ~Publish Github[online].
 \newblock Ez systems github.
 \newblock \url{https://github.com/ezsystems/}.
+
+\bibitem{waterproofweb}
+WaterProof Software[online].
+\newblock \url{http://www.waterproof.fr/}.
+
+\bibitem{waterproofwebwit}
+WaterProof Software[online].
+\newblock \url{http://www.waterproof.fr/products/wit/}.
 
 \end{thebibliography}

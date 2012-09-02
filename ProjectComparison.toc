@@ -19,11 +19,13 @@
 \contentsline {subsubsection}{Version control}{3}{section*.8}
 \contentsline {subsubsection}{Bug tracker}{4}{section*.9}
 \contentsline {subsubsection}{Instant messaging}{4}{section*.10}
-\contentsline {subsubsection}{Website}{4}{section*.11}
+\contentsline {subsubsection}{Coding standards}{4}{section*.11}
+\contentsline {subsubsection}{Website}{4}{section*.12}
+\contentsline {subsubsection}{Money}{4}{section*.13}
 \contentsline {subsection}{\numberline {0.4.3}OpenDungeons}{4}{subsection.0.4.3}
-\contentsline {subsubsection}{Mailing Lists}{4}{section*.12}
-\contentsline {subsubsection}{Version control}{4}{section*.13}
-\contentsline {subsubsection}{Bug tracker}{4}{section*.14}
-\contentsline {subsubsection}{Instant messaging}{4}{section*.15}
-\contentsline {subsubsection}{Website}{4}{section*.16}
+\contentsline {subsubsection}{Mailing Lists}{4}{section*.14}
+\contentsline {subsubsection}{Version control}{4}{section*.15}
+\contentsline {subsubsection}{Bug tracker}{4}{section*.16}
+\contentsline {subsubsection}{Instant messaging}{4}{section*.17}
+\contentsline {subsubsection}{Website}{4}{section*.18}
 \contentsline {section}{\numberline {0.5}Conclusion}{4}{section.0.5}
