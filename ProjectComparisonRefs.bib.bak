@@ -1,24 +1,37 @@
 @Misc{odweb,
 	author = {Open Dungeons Website[online]},
-	title = {OpenDungeons},
 	howpublished = {\url{http://opendungeons.sourceforge.net/index.php/Main_Page}}
 }
 
 @Misc{odwebabout,
 	author = {Open Dungeons Website[online]},
-	title = {about OpenDungeons},
 	howpublished = {\url{http://opendungeons.sourceforge.net/about.html}}
 }
 
 @Misc{mpcweb,
 	author = {Media Player Classic Website[online]},
-	title = {Media Player Classic},
-	howpublished = {\url{http://sourceforge.net/projects/guliverkli/}}
+	howpublished = {\url{http://mpc-hc.sourceforge.net/}}
+}
+
+@Misc{mpcsource,
+	author = {MPC-HC Website[online]},
+	howpublished = {\url{https://github.com/mpc-hc/mpc-hc}}
+}
+
+@Misc{mpctracsupport,
+	author = {Media Player Classic Website[online]},
+	title = {Trac Support},
+	howpublished = {\url{http://sourceforge.net/apps/trac/mpc-hc/wiki/TracSupport}}
+}
+
+@Misc{mpctracmail,
+	author = {Media Player Classic Website[online]},
+	title = {Mail Notification of Ticket Changes},
+	howpublished = {\url{http://sourceforge.net/apps/trac/mpc-hc/wiki/TracNotification}}
 }
 
 @Misc{ezpubweb,
 	author = {EZ Publish Website[online]},
-	title = {EZ Publish},
 	howpublished = {\url{http://ez.no/}}
 }
 
@@ -30,7 +43,6 @@
 
 @Misc{ezcomweb,
 	author = {EZ Publish Community Website[online]},
-	title = {EZ Publish Community},
 	howpublished = {\url{http://share.ez.no/}}
 }
 
@@ -53,6 +65,14 @@
 	howpublished = {\url{http://www.gnu.org/licenses/old-licenses/gpl-2.0.html}}
 }
 
+@Misc{gplv3,
+	author = {Free Software Foundation[online]},
+	title = {GNU GENERAL PUBLIC LICENSE},
+	note = {Version 3},
+	howpublished = {\url{http://www.gnu.org/licenses/gpl.html}}
+}
+
+
 @Misc{ezpubwebmaillists,
 	author = {EZ Publish Mail Website[online]},
 	title = {lists.ez.no Mailing Lists},
@@ -68,6 +88,12 @@
 	note = {\url{http://www.producingoss.com/}}
 }
 
+@Misc{tracweb,
+	author = {Trac[online]},
+	title = {Trac Open Source Project},
+	howpublished = {\url{http://trac.edgewall.org/}}
+}
+
 @Misc{waterproofweb,
 	author = {WaterProof Software[online]},
 	howpublished = {\url{http://www.waterproof.fr/}}
@@ -76,7 +102,6 @@
 @Misc{waterproofwebwit,
 	author = {WaterProof Software[online]},
 	howpublished = {\url{http://www.waterproof.fr/products/wit/}}
-<<<<<<< HEAD
 }
 @Misc{boostweb,
 	author = {Boost Website[online]},
@@ -108,6 +133,4 @@
 @Misc{boostsvn,
 	author = {Boost Website[online]},
 	howpublished = {\url{https://svn.boost.org/trac/boost/wiki/BoostSubversion}}
-=======
->>>>>>> b28a968fb07be2fb9c72a264bc8530962626b528
 }
