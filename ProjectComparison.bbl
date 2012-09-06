@@ -106,4 +106,12 @@ WaterProof Software[online].
 Boost Website[online].
 \newblock \url{http://www.boost.org/community/groups.html}.
 
+\bibitem{boostcvssourceforge}
+Boost Website[online].
+\newblock \url{http://sourceforge.net/projects/boost/}.
+
+\bibitem{boostsvn}
+Boost Website[online].
+\newblock \url{https://svn.boost.org/trac/boost/wiki/BoostSubversion}.
+
 \end{thebibliography}

@@ -126,3 +126,11 @@
 	author = {Boost Website[online]},
 	howpublished = {\url{http://www.boost.org/community/groups.html}}
 }
+@Misc{boostcvssourceforge,
+	author = {Boost Website[online]},
+	howpublished = {\url{http://sourceforge.net/projects/boost/}}
+}
+@Misc{boostsvn,
+	author = {Boost Website[online]},
+	howpublished = {\url{https://svn.boost.org/trac/boost/wiki/BoostSubversion}}
+}
