@@ -50,9 +50,9 @@ Our team of engineers, consultants and partner managers enables successful imple
 \end{quote}
 The Ez Publish website\cite{ezpubweb} appears as a business front-end, and as such can be a bit off putting. There is but one direct mention of open-source, under a "What's in it for you" banner at the top.
 
-Until you find the community portal for Ez Publish, it's all like a big storefront. Mentioning open-source and community in between selling itself. Indeed, running a \url{inurl:"http://ez.publish.no" "share.ez.no"} on google returns no results. The open-source community web page\cite{ezcomweb} can be found through the Ez publish github\cite{ezpubgithub} or by doing searches with more keywords than simply "Ez publish".
+Until you find the community portal for Ez Publish, it's all like a big storefront. Mentioning open-source and community in between selling itself. Indeed, running a \url{inurl:"http://ez.publish.no" "share.ez.no"} on google returns no results.
 
-Features are handled through a community roadmap, and an official roadmap. The official roadmap contains features that the product management at Ez has officially committed. As such these features see more of Ez's engineers than the community roadmap, which is the community's feature list.
+Poking around will let you find the open-source community web page\cite{ezcomweb}
 
 \subsection{OpenDungeons}
 \begin{quotation}
@@ -62,6 +62,7 @@ OpenDungeons is an open source, real time strategy game sharing game elements wi
 
 \section{Licenses}
 \subsection{Media Player Classic}
+MPC-HCs information about their licensing is easily found in the readme file in the source code\cite{mpcsource}. They are using the GPLv3\cite{gplv3}.
 \subsection{Ez Publish}
 Ez Publish uses a quinary licensing scheme\cite{ezpubweblicenses}. Most of them are for special use cases, meaning enterprises use the "eZ Business Use License Agreement" while most others use the GPLv2\cite{gplv2}. Information about their licensing and when to use which is more or less hidden.
 \subsection{OpenDungeons}
@@ -69,14 +70,19 @@ Ez Publish uses a quinary licensing scheme\cite{ezpubweblicenses}. Most of them 
 \section{Infrastructure}
 \subsection{Media Player Classic}
 \subsubsection{Mailing Lists}
+MPC-HC seems not to use mailing lists too much, it's hard to find on their page. It seems like their using irc channels instead. I did in the end find a mailing list, I had to search the page to find it. It's a mailing list for their bug report system, and is used as a notification to users to inform them about tickets in their bug reporting system\cite{mpctracsupport}\cite{mpctracmail}. This conflicts to how Karl Fogel is talking about the mailing lists in the book\cite{kfposs} of his. %It seems in the code that their referring to a development mailing list, maybe have to ask on irc.
 \subsubsection{Version control}
+MPC-HC's version control is easily find on the front page\cite{mpcweb} under the news section. It's because they just recently changed it to GitHub. The changed where because it was easier for people to contribute, they say. This message about that they want more contributors goes through the entire page, and is also written much about in the readme\cite{mpcsource}.
 \subsubsection{Bug tracker}
+The bug tracker their using is the Trac\cite{tracweb} system, and is used to report bugs, feature request, or other kind of requests or changes. It is linked to several places on their page, and they has also made a guide%\cite{•} 
+on how to proceed with a ticket ass they call a bug report, or any other report. 
 \subsubsection{Instant messaging}
+They are using irc channels, and seems like the main communication between the developers. Though, they only got two channels, one for user help, and one for development channel.
 \subsubsection{Website}
 
 \subsection{Ez Publish}
 \subsubsection{Mailing Lists}
-Ez Publish has mailing lists\cite{ezpubwebmaillists}\footnote{At the first counseling Thomas stated that Ez Publish seemingly did not use mailing lists. It has been discovered that this was indeed false.} divided into 10 categories, half of which is bug related. All of the categories are more or less aimed at development and developers.
+Ez Publish has mailing lists\cite{ezpubwebmaillists}\footnote{At the first counseling Thomas stated that Ez Publish seemingly did not use mailing lists. It has been discovered that this was indeed false.} divided into 10 categories, half of which is bug related. All of the categories are more or less aimed at development/developers.
 \subsubsection{Version control}
 Ez Publish uses github\cite{ezpubgithub} as their community/open-source code interface/version control. Here they have lots of public repositories (40 repositories at the 30th of August 2012). They use primarily push requests to receive code from sources other than Ez Publish's own engineers. % this may be false, check mail.
 \subsubsection{Bug tracker}
@@ -84,20 +90,19 @@ Ez Publish uses a bug tracking system from Waterproof Software\cite{waterproofwe
 \subsubsection{Instant messaging} % check in mail?
 \subsubsection{Coding standards}
 \subsubsection{Website}
-All of Ez Publish's websites are hosted on the Ez Publish platform. The community portal\cite{ezcomweb} is fairly well written and structured. Although some information can be hard to find, this generally is not a problem.
+All of Ez Publish's websites are hosted on the Ez Publish platform.
 \subsubsection{Money}
-Ez Publish straightforwardly presents itself as a company making money off of their support for the Ez Publish platform. This is especially evident if you find their business portal\cite{ezpubweb} first.
+Ez Publish straightforwardly presents itself as a company making money off of their support for the Ez Publish platform.
 
-\subsection{s}
+\subsection{OpenDungeons}
 \subsubsection{Mailing Lists}
 \subsubsection{Version control}
 \subsubsection{Bug tracker}
 \subsubsection{Instant messaging}
 \subsubsection{Website}
 
-\section{Comparison}
+\section{Conclusion}
 
-\section{Conclusion} % not sure if needed?
 \bibliographystyle{unsrt} % change for dcu, or something else entirely? unsrt is nice
 \bibliography{ProjectComparisonRefs}
 \end{document}

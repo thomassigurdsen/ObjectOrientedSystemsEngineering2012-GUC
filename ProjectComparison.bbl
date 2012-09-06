@@ -35,6 +35,16 @@ Open~Dungeons Website[online].
 \newblock about opendungeons.
 \newblock \url{http://opendungeons.sourceforge.net/about.html}.
 
+\bibitem{mpcsource}
+MPC-HC Website[online].
+\newblock \url{https://github.com/mpc-hc/mpc-hc}.
+
+\bibitem{gplv3}
+Free~Software Foundation[online].
+\newblock Gnu general public license.
+\newblock \url{http://www.gnu.org/licenses/gpl.html}.
+\newblock Version 3.
+
 \bibitem{ezpubweblicenses}
 EZ~Publish Website[online].
 \newblock Ez.
@@ -45,6 +55,21 @@ Free~Software Foundation[online].
 \newblock Gnu general public license.
 \newblock \url{http://www.gnu.org/licenses/old-licenses/gpl-2.0.html}.
 \newblock Version 2.
+
+\bibitem{mpctracsupport}
+Media Player~Classic Website[online].
+\newblock Trac support.
+\newblock \url{http://sourceforge.net/apps/trac/mpc-hc/wiki/TracSupport}.
+
+\bibitem{mpctracmail}
+Media Player~Classic Website[online].
+\newblock Mail notification of ticket changes.
+\newblock \url{http://sourceforge.net/apps/trac/mpc-hc/wiki/TracNotification}.
+
+\bibitem{tracweb}
+Trac[online].
+\newblock Trac open source project.
+\newblock \url{http://trac.edgewall.org/}.
 
 \bibitem{ezpubwebmaillists}
 EZ~Publish~Mail Website[online].
