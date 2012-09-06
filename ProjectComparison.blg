@@ -8,7 +8,23 @@ I was expecting a `,' or a `}'---line 29 of file ProjectComparisonRefs.bib
 I'm skipping whatever remains of this entry
 I was expecting a `,' or a `}'---line 35 of file ProjectComparisonRefs.bib
  : 
+ : @Misc{mpccontact,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 41 of file ProjectComparisonRefs.bib
+ : 
+ : @Misc{mpctodo,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 47 of file ProjectComparisonRefs.bib
+ : 
+ : @Misc{mpcwiki,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 53 of file ProjectComparisonRefs.bib
+ : 
  : @Misc{ezpubweb,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-(There were 2 error messages)
+Warning--I didn't find a database entry for "mpcsweb"
+(There were 5 error messages)

@@ -71,6 +71,26 @@ Trac[online].
 \newblock Trac open source project.
 \newblock \url{http://trac.edgewall.org/}.
 
+\bibitem{mpccontact}
+Media Player~Classic Website[online].
+\newblock Contact us.
+\newblock \url{http://mpc-hc.sourceforge.net/contact-us/}.
+
+\bibitem{ohlohmpc}
+Ohloh[online].
+\newblock Mpc project summary.
+\newblock \url{http://www.ohloh.net/p/mpc-hc}.
+
+\bibitem{mpctodo}
+Media Player~Classic Website[online].
+\newblock To-do list.
+\newblock \url{http://sourceforge.net/apps/trac/mpc-hc/wiki/To-Do}.
+
+\bibitem{mpcwiki}
+Media Player~Classic Website[online].
+\newblock Development wiki.
+\newblock \url{http://sourceforge.net/apps/trac/mpc-hc/}.
+
 \bibitem{ezpubwebmaillists}
 EZ~Publish~Mail Website[online].
 \newblock lists.ez.no mailing lists.
