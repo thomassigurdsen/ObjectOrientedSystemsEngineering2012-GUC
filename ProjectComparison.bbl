@@ -12,13 +12,15 @@ Media Player~Classic Website[online].
 
 \bibitem{ezpubweb}
 EZ~Publish Website[online].
-\newblock Ez publish.
 \newblock \url{http://ez.no/}.
 
 \bibitem{odweb}
 Open~Dungeons Website[online].
-\newblock Opendungeons.
 \newblock \url{http://opendungeons.sourceforge.net/index.php/Main_Page}.
+
+\bibitem{boostweb}
+Boost Website[online].
+\newblock \url{http://www.boost.org/}.
 
 \bibitem{ezpubwebabout}
 EZ~Publish Website[online].
@@ -27,13 +29,20 @@ EZ~Publish Website[online].
 
 \bibitem{ezcomweb}
 EZ~Publish~Community Website[online].
-\newblock Ez publish community.
 \newblock \url{http://share.ez.no/}.
 
 \bibitem{odwebabout}
 Open~Dungeons Website[online].
-\newblock about opendungeons.
 \newblock \url{http://opendungeons.sourceforge.net/about.html}.
+
+\bibitem{boostproposal}
+Bernan~G. Dawes.
+\newblock Proposal for a c++ library repository web site(pdf).
+\newblock \url{http://www.boost.org/users/proposal.pdf}, May 1998.
+
+\bibitem{boostfaq}
+Boost Website[online].
+\newblock \url{http://www.boost.org/users/faq.html}.
 
 \bibitem{mpcsource}
 MPC-HC Website[online].
@@ -55,6 +64,10 @@ Free~Software Foundation[online].
 \newblock Gnu general public license.
 \newblock \url{http://www.gnu.org/licenses/old-licenses/gpl-2.0.html}.
 \newblock Version 2.
+
+\bibitem{boostlicense}
+Boost Website[online].
+\newblock \url{http://www.boost.org/users/license.html}.
 
 \bibitem{mpctracsupport}
 Media Player~Classic Website[online].
@@ -88,5 +101,9 @@ WaterProof Software[online].
 \bibitem{waterproofwebwit}
 WaterProof Software[online].
 \newblock \url{http://www.waterproof.fr/products/wit/}.
+
+\bibitem{boostmaillists}
+Boost Website[online].
+\newblock \url{http://www.boost.org/community/groups.html}.
 
 \end{thebibliography}

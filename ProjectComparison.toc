@@ -1,31 +1,32 @@
 \contentsline {section}{\numberline {0.1}Introduction}{2}{section.0.1}
 \contentsline {section}{\numberline {0.2}Project introduction}{2}{section.0.2}
 \contentsline {subsection}{\numberline {0.2.1}Media Player Classic}{2}{subsection.0.2.1}
-\contentsline {subsection}{\numberline {0.2.2}Ez Publish}{2}{subsection.0.2.2}
+\contentsline {subsection}{\numberline {0.2.2}Ez Publish}{3}{subsection.0.2.2}
 \contentsline {subsection}{\numberline {0.2.3}OpenDungeons}{3}{subsection.0.2.3}
-\contentsline {section}{\numberline {0.3}Licenses}{3}{section.0.3}
-\contentsline {subsection}{\numberline {0.3.1}Media Player Classic}{3}{subsection.0.3.1}
-\contentsline {subsection}{\numberline {0.3.2}Ez Publish}{3}{subsection.0.3.2}
-\contentsline {subsection}{\numberline {0.3.3}OpenDungeons}{4}{subsection.0.3.3}
+\contentsline {subsection}{\numberline {0.2.4}Boost}{3}{subsection.0.2.4}
+\contentsline {section}{\numberline {0.3}Licenses}{4}{section.0.3}
+\contentsline {subsection}{\numberline {0.3.1}Media Player Classic}{4}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {0.3.2}Ez Publish}{4}{subsection.0.3.2}
+\contentsline {subsection}{\numberline {0.3.3}Boost}{4}{subsection.0.3.3}
 \contentsline {section}{\numberline {0.4}Infrastructure}{4}{section.0.4}
 \contentsline {subsection}{\numberline {0.4.1}Media Player Classic}{4}{subsection.0.4.1}
 \contentsline {subsubsection}{Mailing Lists}{4}{section*.2}
 \contentsline {subsubsection}{Version control}{4}{section*.3}
-\contentsline {subsubsection}{Bug tracker}{4}{section*.4}
-\contentsline {subsubsection}{Instant messaging}{4}{section*.5}
-\contentsline {subsubsection}{Website}{4}{section*.6}
-\contentsline {subsection}{\numberline {0.4.2}Ez Publish}{4}{subsection.0.4.2}
-\contentsline {subsubsection}{Mailing Lists}{4}{section*.7}
+\contentsline {subsubsection}{Bug tracker}{5}{section*.4}
+\contentsline {subsubsection}{Instant messaging}{5}{section*.5}
+\contentsline {subsubsection}{Website}{5}{section*.6}
+\contentsline {subsection}{\numberline {0.4.2}Ez Publish}{5}{subsection.0.4.2}
+\contentsline {subsubsection}{Mailing Lists}{5}{section*.7}
 \contentsline {subsubsection}{Version control}{5}{section*.8}
 \contentsline {subsubsection}{Bug tracker}{5}{section*.9}
 \contentsline {subsubsection}{Instant messaging}{5}{section*.10}
 \contentsline {subsubsection}{Coding standards}{5}{section*.11}
 \contentsline {subsubsection}{Website}{5}{section*.12}
 \contentsline {subsubsection}{Money}{5}{section*.13}
-\contentsline {subsection}{\numberline {0.4.3}OpenDungeons}{5}{subsection.0.4.3}
-\contentsline {subsubsection}{Mailing Lists}{5}{section*.14}
-\contentsline {subsubsection}{Version control}{5}{section*.15}
-\contentsline {subsubsection}{Bug tracker}{5}{section*.16}
-\contentsline {subsubsection}{Instant messaging}{5}{section*.17}
-\contentsline {subsubsection}{Website}{5}{section*.18}
-\contentsline {section}{\numberline {0.5}Conclusion}{5}{section.0.5}
+\contentsline {subsection}{\numberline {0.4.3}Boost}{6}{subsection.0.4.3}
+\contentsline {subsubsection}{Mailing Lists}{6}{section*.14}
+\contentsline {subsubsection}{Version control}{6}{section*.15}
+\contentsline {subsubsection}{Bug tracker}{6}{section*.16}
+\contentsline {subsubsection}{Instant messaging}{6}{section*.17}
+\contentsline {subsubsection}{Website}{6}{section*.18}
+\contentsline {section}{\numberline {0.5}Conclusion/Comparison?}{6}{section.0.5}
