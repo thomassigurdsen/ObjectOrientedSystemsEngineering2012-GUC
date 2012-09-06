@@ -1,3 +1,122 @@
+<<<<<<< HEAD
+\begin{thebibliography}{10}
+
+\bibitem{kfposs}
+Karl Fogel.
+\newblock {\em Producing Open Source Software}.
+\newblock O'Reilly Media, October 2005.
+\newblock \url{http://www.producingoss.com/}.
+
+\bibitem{mpcweb}
+Media Player~Classic Website[online].
+\newblock \url{http://mpc-hc.sourceforge.net/}.
+
+\bibitem{ezpubweb}
+EZ~Publish Website[online].
+\newblock \url{http://ez.no/}.
+
+\bibitem{odweb}
+Open~Dungeons Website[online].
+\newblock \url{http://opendungeons.sourceforge.net/index.php/Main_Page}.
+
+\bibitem{boostweb}
+Boost Website[online].
+\newblock \url{http://www.boost.org/}.
+
+\bibitem{ezpubwebabout}
+EZ~Publish Website[online].
+\newblock About ez.
+\newblock \url{http://ez.no/About-eZ/Company-Overview}.
+
+\bibitem{ezcomweb}
+EZ~Publish~Community Website[online].
+\newblock \url{http://share.ez.no/}.
+
+\bibitem{odwebabout}
+Open~Dungeons Website[online].
+\newblock \url{http://opendungeons.sourceforge.net/about.html}.
+
+\bibitem{boostproposal}
+Bernan~G. Dawes.
+\newblock Proposal for a c++ library repository web site(pdf).
+\newblock \url{http://www.boost.org/users/proposal.pdf}, May 1998.
+
+\bibitem{boostfaq}
+Boost Website[online].
+\newblock \url{http://www.boost.org/users/faq.html}.
+
+\bibitem{mpcsource}
+MPC-HC Website[online].
+\newblock \url{https://github.com/mpc-hc/mpc-hc}.
+
+\bibitem{gplv3}
+Free~Software Foundation[online].
+\newblock Gnu general public license.
+\newblock \url{http://www.gnu.org/licenses/gpl.html}.
+\newblock Version 3.
+
+\bibitem{ezpubweblicenses}
+EZ~Publish Website[online].
+\newblock Ez.
+\newblock \url{http://ez.no/Resources/Software/Licenses}.
+
+\bibitem{gplv2}
+Free~Software Foundation[online].
+\newblock Gnu general public license.
+\newblock \url{http://www.gnu.org/licenses/old-licenses/gpl-2.0.html}.
+\newblock Version 2.
+
+\bibitem{boostlicense}
+Boost Website[online].
+\newblock \url{http://www.boost.org/users/license.html}.
+
+\bibitem{mpctracsupport}
+Media Player~Classic Website[online].
+\newblock Trac support.
+\newblock \url{http://sourceforge.net/apps/trac/mpc-hc/wiki/TracSupport}.
+
+\bibitem{mpctracmail}
+Media Player~Classic Website[online].
+\newblock Mail notification of ticket changes.
+\newblock \url{http://sourceforge.net/apps/trac/mpc-hc/wiki/TracNotification}.
+
+\bibitem{tracweb}
+Trac[online].
+\newblock Trac open source project.
+\newblock \url{http://trac.edgewall.org/}.
+
+\bibitem{ezpubwebmaillists}
+EZ~Publish~Mail Website[online].
+\newblock lists.ez.no mailing lists.
+\newblock \url{http://lists.ez.no/mailman/listinfo}.
+
+\bibitem{ezpubgithub}
+EZ~Publish Github[online].
+\newblock Ez systems github.
+\newblock \url{https://github.com/ezsystems/}.
+
+\bibitem{waterproofweb}
+WaterProof Software[online].
+\newblock \url{http://www.waterproof.fr/}.
+
+\bibitem{waterproofwebwit}
+WaterProof Software[online].
+\newblock \url{http://www.waterproof.fr/products/wit/}.
+
+\bibitem{boostmaillists}
+Boost Website[online].
+\newblock \url{http://www.boost.org/community/groups.html}.
+
+\bibitem{boostcvssourceforge}
+Boost Website[online].
+\newblock \url{http://sourceforge.net/projects/boost/}.
+
+\bibitem{boostsvn}
+Boost Website[online].
+\newblock \url{https://svn.boost.org/trac/boost/wiki/BoostSubversion}.
+
+\end{thebibliography}
+=======
 \begin{thebibliography}{10}
 
 \bibitem{kfposs}
@@ -110,3 +229,4 @@ WaterProof Software[online].
 \newblock \url{http://www.waterproof.fr/products/wit/}.
 
 \end{thebibliography}
+>>>>>>> b28a968fb07be2fb9c72a264bc8530962626b528
