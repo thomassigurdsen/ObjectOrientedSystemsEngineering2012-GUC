@@ -36,6 +36,8 @@ MPC-HC is an extremely light-weight media player for Windows.
 The player supports all common video and audio file formats available for playback.\cite{mpcweb}
 \end{quote}
 As you can see, it stands MPC-HC, and this is a fork of the original MPC. This "HC" version is the one that their adding new features to, along with fixing bugs and libraries. The original MPC was just intended to be the same Classic Player with no more features, and just fixing bugs and updating libraries, but after the leader, Gabest didn't had more time for the project, the project is inactive. %Or more likely dead
+Gabest was the main developer and the leader of the MPC project, it started as a closed-source project. Later they did make an open source project out of it.
+The MPC-HC is mainly written in C++, 87 percent of the code are written in C++, and 11 percent in C\cite{ohlohmpc}. They have also done a lot of decreasing code lines. By taking a look at the graph named "Lines of Code" on mpc-hc page at ohloh.net\cite{ohlohmpc} you can see that they have went from maximum 616 000 lines of code in April 2010. To 168 000 lines of code September 2012.
 Their page seems also very open, and it's easy to see that it's an open source project. You have easy access to their changelog, bug reports, about, and development wiki. From the development wiki site you can easy find what you expect to find.
  
 \subsection{Ez Publish}
@@ -78,16 +80,19 @@ Boost is a bit special because many of the contributors is or have been members 
 \section{Infrastructure}
 \subsection{Media Player Classic}
 \subsubsection{Mailing Lists}
-MPC-HC seems not to use mailing lists too much, it's hard to find on their page. It seems like their using irc channels instead. I did in the end find a mailing list, I had to search the page to find it. It's a mailing list for their bug report system, and is used as a notification to users to inform them about tickets in their bug reporting system\cite{mpctracsupport}\cite{mpctracmail}. This conflicts to how Karl Fogel is talking about the mailing lists in the book\cite{kfposs} of his. %It seems in the code that their referring to a development mailing list, maybe have to ask on irc.
+MPC-HC seems not to use mailing lists too much, it's hard to find on their page. I did in the end find one mailing list, I had to search the page to find it. It's a mailing list for their bug report system, and is used as a notification to subscribers to inform them about tickets in their bug reporting system\cite{mpctracsupport}\cite{mpctracmail}. After long time searching for some mailing lists I went to their irc channel to ask them, and got as I suspected in reply that they don't have any. All communication between the developers happens through the irc channel.  This conflicts to how Karl Fogel is talking about the mailing lists in his book\cite{kfposs}. 
 \subsubsection{Version control}
 MPC-HC's version control is easily find on the front page\cite{mpcweb} under the news section. It's because they just recently changed it to GitHub. The changed where because it was easier for people to contribute, they say. This message about that they want more contributors goes through the entire page, and is also written much about in the readme\cite{mpcsource}.
 \subsubsection{Bug tracker}
-The bug tracker their using is the Trac\cite{tracweb} system, and is used to report bugs, feature request, or other kind of requests or changes. It is linked to several places on their page, and they has also made a guide%\cite{•} 
+The bug tracker their using is the Trac\cite{tracweb} system, and is used to report bugs, feature request, or other kind of requests or changes. It is linked to from several places on their site, and they have also made a guide\cite{mpcbugguide} 
 on how to proceed with a ticket ass they call a bug report, or any other report. 
 \subsubsection{Instant messaging}
-They are using irc channels, and seems like the main communication between the developers. Though, they only got two channels, one for user help, and one for development channel.
+They are using irc channels\cite{mpccontact}, and seems like the main communication between the developers. Though, they only got two channels, one for users, help and such, and one for development channel. If you got some technical questions or something to discuss, it's here you do it. It's not the way Karl Fogel recommend doing things, because you have to be there when it happens to read it, and to learn from it. It also may be harder to get into the project if you're new to the project. On the other hand, the only got 168 000 lines of code\cite{ohlohmpc} at the moment, and have a pretty detailed to-do list\cite{mpctodo}
 \subsubsection{Website}
-
+The website I would say is quite easy for a regular user to find what he need, download the software, report bugs, read about the. If you are more interested, or are contributing in the project, and spends some time in the development wiki\cite{mpcwiki} you easy find the things you want. Karl Fogel describes a website like this in his book:\begin{quotation}
+(...)it act more as a glue for the other components than as a tool unto itself.\cite{kfposs}
+\end{quotation} 
+And that it was it does. From the page you can get all the information you need.
 \subsection{Ez Publish}
 \subsubsection{Mailing Lists}
 Ez Publish has mailing lists\cite{ezpubwebmaillists}\footnote{At the first counseling Thomas stated that Ez Publish seemingly did not use mailing lists. It has been discovered that this was indeed false.} divided into 10 categories, half of which is bug related. All of the categories are more or less aimed at development/developers.
